@@ -24,10 +24,6 @@ public class spawnerscript2 : MonoBehaviour
         spawnuntill();
     }
 
-    void OnDrawGizmos()
-    {
-        Gizmos.DrawWireCube(transform.position, new Vector3(x, y, 0));
-    }
 
     void spawner()
     {

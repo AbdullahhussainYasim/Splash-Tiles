@@ -59,11 +59,7 @@ public class ClickEvent : MonoBehaviour
         previousScene = SceneManager.GetActiveScene().name; 
         SceneManager.LoadScene("diffculty");
     }
-
-    public void Aboutbttn()
-    {
-        SceneManager.LoadScene("SampleScene");
-    }
+    
 
     public void menubttn()
     {

@@ -175,7 +175,7 @@ MonoBehaviour:
   color: {fileID: 5933146398620347428}
   scorevalue: 1
   rb: {fileID: -8419405848437667894}
-  speed: 210
+  speed: 65
   gameovers: {fileID: 8300000, guid: 1d92f26aa0cd99c4c996cb1c7c074475, type: 3}
 --- !u!82 &-94122163913986082
 AudioSource:
